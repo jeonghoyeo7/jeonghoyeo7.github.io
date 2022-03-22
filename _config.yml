@@ -46,7 +46,7 @@ plainwhite:
     #   instance: example.com
   navigation:
     - title: Resume
-      url: "https://jeonghoyeo7.github.io/my-work/resume.md"
+      url: "/my-work"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
